@@ -1,0 +1,22 @@
+.photo {
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  width: 250px;
+  float: left;
+  margin: 80px;
+}
+.column2 {
+  border: black;
+  border-width: 5px;
+  width: 400px;
+  float: left;
+  margin: 80px;
+}
+.column3 {
+  border: black;
+  border-width: 5px;
+  width: 300px;
+  float: left;
+  margin: 80px;
+}
